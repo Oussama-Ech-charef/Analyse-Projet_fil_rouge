@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Plan du rapport
+title: Plan du rapport - Cabinet Médical et Téléconsultation
 ---
 
-### Rapport Planning
+### Projet : Cabinet Médical / Téléconsultation
 
 #### Table des matières
 
@@ -14,7 +14,8 @@ title: Plan du rapport
 **Contexte du projet**
 
 - Objectif de formation (Solicode)
-- Application de salons et foires
+- Présentation du cabinet médical et de la téléconsultation
+- Problématique de la prise en charge médicale à distance
 - Cahier des charges
 
 **Méthodologie de travail**
@@ -30,13 +31,13 @@ title: Plan du rapport
 - Carte d'empathie
 - Définition du problème
 - Idéation
-- Diagramme de cas d'utilisation
+- Diagramme de cas d'utilisation du cabinet médical
 
 **Branche technique**
 
 - Stack technologique
 - Architecture logicielle
-- Prototype (fonctionnalités, classes)
+- Prototype de la plateforme médicale
 
 **Conception**
 
